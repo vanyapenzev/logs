@@ -1,0 +1,5 @@
+import './bootstrap/css/bootstrap.min.css'
+import './font-awesome/css/all.min.css'
+import './perfectscroll/perfect-scrollbar.css'
+import './apexcharts/apexcharts.css'
+import './main.min.css'
